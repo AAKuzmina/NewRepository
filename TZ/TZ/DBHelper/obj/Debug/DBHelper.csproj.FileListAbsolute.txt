@@ -1,0 +1,24 @@
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\DBHelper\bin\Debug\DBHelper.dll.config
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\DBHelper\bin\Debug\DBHelper.dll
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\DBHelper\bin\Debug\DBHelper.pdb
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\DBHelper\obj\Debug\DBHelper.dll
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\DBHelper\bin\Debug\DBHelper.dll.config
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\DBHelper\bin\Debug\DBHelper.dll.config
+C:\Users\Анастасия\Desktop\Тестовое задание\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Тестовое задание\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\DBHelper\obj\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\DBHelper\bin\Debug\DBHelper.dll.config
+C:\Users\Анастасия\Desktop\NewTestTask\DBHelper\bin\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\DBHelper\bin\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\NewTestTask\DBHelper\obj\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\DBHelper\obj\Debug\DBHelper.pdb

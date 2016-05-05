@@ -1,0 +1,81 @@
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\bin\Тестовое задание.dll
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\bin\Тестовое задание.pdb
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\bin\DBHelper.dll
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\bin\DBHelper.pdb
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.dll
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.pdb
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\bin\DataAnalyser.dll
+c:\users\анастасия\documents\visual studio 2012\Projects\Тестовое задание\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\DataAnalyser.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\DBHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\DBHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\DataAnalyser.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\DBHelper.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\DBHelper.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\DataAnalyser.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\DBHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\DBHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\БизАпс\Тестовое задание\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\DataAnalyser.dll
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\DBHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\DBHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\obj\Debug\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\DataAnalyser.dll
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\DBHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\DBHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\obj\Debug\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\БизАпс\NewTestTask\Тестовое задание\obj\Debug\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\GridViewHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\Тестовое задание\bin\GridViewHelper.pdb
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\Тестовое задание.pdb
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\DataAnalyser.dll
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\DBHelper.dll
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\FileHelper.dll
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\GridViewHelper.dll
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\DataAnalyser.pdb
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\DBHelper.pdb
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\FileHelper.pdb
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\bin\GridViewHelper.pdb
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\obj\Debug\Тестовое задание.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\obj\Debug\Тестовое задание.dll
+C:\Users\Анастасия\Desktop\TZ\Тестовое задание\obj\Debug\Тестовое задание.pdb

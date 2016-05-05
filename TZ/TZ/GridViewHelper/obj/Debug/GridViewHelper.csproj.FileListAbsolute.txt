@@ -1,0 +1,7 @@
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\bin\Debug\GridViewHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\bin\Debug\GridViewHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\obj\Debug\GridViewHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\obj\Debug\GridViewHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\bin\Debug\DBHelper.dll
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\bin\Debug\DBHelper.pdb
+C:\Users\Анастасия\Desktop\NewTestTask\GridViewHelper\obj\Debug\GridViewHelper.csprojResolveAssemblyReference.cache

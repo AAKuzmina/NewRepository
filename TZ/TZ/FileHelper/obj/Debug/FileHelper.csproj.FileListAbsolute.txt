@@ -1,0 +1,5 @@
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\FileHelper\bin\Debug\FileHelper.dll
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\FileHelper\bin\Debug\FileHelper.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\FileHelper\obj\Debug\FileHelper.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\FileHelper\obj\Debug\FileHelper.dll
+C:\Users\Анастасия\Documents\Visual Studio 2012\Projects\Тестовое задание\FileHelper\obj\Debug\FileHelper.pdb
