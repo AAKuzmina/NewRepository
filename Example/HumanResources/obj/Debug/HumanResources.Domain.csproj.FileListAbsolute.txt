@@ -1,0 +1,5 @@
+G:\tfs_defaultcollection\TrainingProjects\HumanResourcesCRM01\MAIN\Example\HumanResources\bin\Debug\HumanResources.Domain.dll
+G:\tfs_defaultcollection\TrainingProjects\HumanResourcesCRM01\MAIN\Example\HumanResources\bin\Debug\HumanResources.Domain.pdb
+G:\tfs_defaultcollection\TrainingProjects\HumanResourcesCRM01\MAIN\Example\HumanResources\obj\Debug\HumanResources.Domain.csprojResolveAssemblyReference.cache
+G:\tfs_defaultcollection\TrainingProjects\HumanResourcesCRM01\MAIN\Example\HumanResources\obj\Debug\HumanResources.Domain.dll
+G:\tfs_defaultcollection\TrainingProjects\HumanResourcesCRM01\MAIN\Example\HumanResources\obj\Debug\HumanResources.Domain.pdb

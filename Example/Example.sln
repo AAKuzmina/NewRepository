@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{49DE189E-9C18-4172-AFF8-7F40304A26CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{372B3F10-23F4-4664-8C6D-F12DADC19603}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResources.Domain", "HumanResources\HumanResources.Domain.csproj", "{D56676E5-DC8C-4007-8EEA-C9B7128DCD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResources.Domain.Tests", "HumanResources.Domain.Tests\HumanResources.Domain.Tests.csproj", "{EF1B4DB3-43F2-45A8-829B-A3839F0D5620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanResources.Domain.ServiceLayer", "HumanResources.Domain.ServiceLayer\HumanResources.Domain.ServiceLayer.csproj", "{2F49C290-2070-42E1-A00A-7CB2CA7EC2F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56676E5-DC8C-4007-8EEA-C9B7128DCD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56676E5-DC8C-4007-8EEA-C9B7128DCD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56676E5-DC8C-4007-8EEA-C9B7128DCD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56676E5-DC8C-4007-8EEA-C9B7128DCD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1B4DB3-43F2-45A8-829B-A3839F0D5620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1B4DB3-43F2-45A8-829B-A3839F0D5620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1B4DB3-43F2-45A8-829B-A3839F0D5620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1B4DB3-43F2-45A8-829B-A3839F0D5620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F49C290-2070-42E1-A00A-7CB2CA7EC2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F49C290-2070-42E1-A00A-7CB2CA7EC2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F49C290-2070-42E1-A00A-7CB2CA7EC2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F49C290-2070-42E1-A00A-7CB2CA7EC2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.biz-apps.ru:8443/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HumanResources\\HumanResources.Domain.csproj
+		SccProjectName1 = HumanResources
+		SccLocalPath1 = HumanResources
+		SccProjectUniqueName2 = HumanResources.Domain.Tests\\HumanResources.Domain.Tests.csproj
+		SccProjectName2 = HumanResources.Domain.Tests
+		SccLocalPath2 = HumanResources.Domain.Tests
+		SccProjectUniqueName3 = HumanResources.Domain.ServiceLayer\\HumanResources.Domain.ServiceLayer.csproj
+		SccProjectName3 = HumanResources.Domain.ServiceLayer
+		SccLocalPath3 = HumanResources.Domain.ServiceLayer
+	EndGlobalSection
+EndGlobal
